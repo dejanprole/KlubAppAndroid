@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/home"
+            android:title="@string/nav_home"/>
+        <item
+            android:id="@+id/nav_gallery"
+            android:icon="@drawable/news"
+            android:title="@string/nav_gallery" />
+        <item
+            android:id="@+id/nav_portfolio"
+            android:icon="@drawable/portfolio"
+            android:title="@string/nav_portfolio" />
+
+        <item
+            android:id="@+id/nav_aboutus"
+            android:icon="@drawable/aboutus"
+            android:title="@string/nav_about_us" />
+
+
+    </group>
+
+    <item android:title="Galerije">
+
+        <menu>
+
+            <item
+                android:id="@+id/nav_gallery_modeli"
+                android:icon="@drawable/models"
+                android:title="@string/nav_gallery_modeli" />
+            <item
+                android:id="@+id/nav_gallery_klub"
+                android:icon="@drawable/railcar"
+                android:title="@string/nav_gallery_klub" />
+            <item
+                android:id="@+id/nav_gallery_putovanja"
+                android:icon="@drawable/travel"
+                android:title="@string/nav_gallery_putovanja" />
+            
+            <item
+                android:id="@+id/nav_gallery_voznipark"
+                android:icon="@drawable/vehiclepark"
+                android:title="@string/nav_gallery_voznipark" />
+
+        </menu>
+
+    </item>
+
+
+
+</menu>

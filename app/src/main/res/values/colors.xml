@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#E61636</color>
+    <color name="colorPrimaryDark">#424147</color>
+    <color name="colorAccent">#424147</color>
+    <color name="black">#000000</color>
+
+    <color name="colorTest">#723424</color>
+    <color name="colorText">#349034</color>
+
+    <color name="textcolor">#ffffff</color>
+
+
+    <color name="list_row_start_color">#ffffff</color>
+    <color name="list_row_end_color">#ffffff</color>
+    <color name="list_row_hover_start_color">#ebeef0</color>
+    <color name="list_row_hover_end_color">#ebeef0</color>
+
+
+</resources>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:paddingTop="3dp"
+    android:paddingLeft="2dp"
+    android:paddingRight="2dp"
+    android:background="#424147">
+
+    <ImageView
+        android:id="@+id/background"
+        android:layout_width="match_parent"
+        android:layout_height="200dp"
+        android:cropToPadding="true"
+        android:scaleType="centerCrop"
+        android:background="@drawable/image_border"/>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:layout_alignParentBottom="true"
+        >
+        <TextView
+            android:id="@+id/date"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:textColor="#ebeef0"
+            android:layout_marginLeft="6dp"
+            android:textSize="17dp"/>
+
+        <TextView
+            android:id="@+id/category"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="#ebeef0"
+            android:layout_marginLeft="6dp"
+            android:layout_below="@id/date"
+            android:textSize="17dp" />
+
+        <TextView
+            android:id="@+id/title"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_marginLeft="6dp"
+            android:layout_marginBottom="6dp"
+            android:shadowColor="#000"
+            android:shadowRadius="7.0"
+            android:textColor="#FFFFFF"
+            android:textSize="17dp"
+            android:padding="3dp"
+            android:background="@drawable/gradient"
+
+            android:layout_below="@id/category"/>
+
+
+
+    </RelativeLayout>
+
+</RelativeLayout>

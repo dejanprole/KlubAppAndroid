@@ -1,0 +1,189 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:fillViewport="true" >
+
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:padding="10dip"
+        android:background="@color/colorPrimaryDark"
+        android:textColor="#FFFFFF"
+
+        >
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:paddingTop="16dp">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Račun kluba:"
+                android:textStyle="bold"
+                android:textSize="17dp"
+                android:paddingLeft="20dp"
+                android:textColor="#FFFFFF"
+                />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/balance"
+                android:paddingLeft="16dp"
+                android:textSize="17dp"
+                android:textColor="#FFFFFF"
+                />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="1dip"
+                android:textSize="17dp"
+                android:paddingLeft="4dp"
+                android:text="RSD"
+                android:textColor="#FFFFFF"
+                />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:paddingTop="16dp">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Ukupno prihoda:"
+                android:textStyle="bold"
+                android:textSize="17dp"
+                android:paddingLeft="20dp"
+                android:textColor="#FFFFFF"
+                />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/sumincome"
+                android:paddingLeft="16dp"
+                android:textSize="17dp"
+                android:textColor="#FFFFFF"
+                />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="1dip"
+                android:textSize="17dp"
+                android:paddingLeft="4dp"
+                android:text="RSD"
+                android:textColor="#FFFFFF"
+                />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:paddingTop="16dp">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Ukupno rashoda:"
+                android:textStyle="bold"
+                android:textSize="17dp"
+                android:paddingLeft="20dp"
+                android:textColor="#FFFFFF"
+                />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/sumoutcome"
+                android:paddingLeft="16dp"
+                android:textSize="17dp"
+                android:textColor="#FFFFFF"
+                />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="1dip"
+                android:textSize="17dp"
+                android:paddingLeft="4dp"
+                android:text="RSD"
+                android:textColor="#FFFFFF"
+                />
+
+        </LinearLayout>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center_vertical"
+            android:text="Prihodi po godini"
+            android:textStyle="bold"
+            android:textSize="17dp"
+            android:paddingLeft="20dp"
+            android:paddingTop="16dp"
+            android:textColor="#FFFFFF"
+            />
+
+        <ListView
+            android:id="@+id/list_income"
+            android:layout_width="match_parent"
+            android:layout_height="240dip"
+            android:layout_marginTop="10dp" >
+        </ListView>
+
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dip"
+            android:gravity="center_vertical"
+            android:text="Rashodi po godini"
+            android:textStyle="bold"
+            android:textSize="17dp"
+            android:paddingLeft="20dp"
+            android:textColor="#FFFFFF"
+            />
+
+        <ListView
+            android:id="@+id/list_outcome"
+            android:layout_width="match_parent"
+            android:layout_height="240dip"
+            android:layout_marginTop="10dp">
+        </ListView>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dip"
+            android:gravity="center_vertical"
+            android:text="Članarine po godini"
+            android:textStyle="bold"
+            android:textSize="17dp"
+            android:paddingLeft="20dp"
+            android:textColor="#FFFFFF"
+            />
+
+        <ListView
+            android:id="@+id/list_members"
+            android:layout_width="match_parent"
+            android:layout_height="240dip"
+            android:layout_marginTop="10dp" >
+        </ListView>
+
+    </LinearLayout>
+
+</ScrollView>

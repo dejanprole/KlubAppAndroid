@@ -1,0 +1,187 @@
+{
+  "project_info": {
+    "project_number": "766695549723",
+    "firebase_url": "https://klubapp-7ec4c.firebaseio.com",
+    "project_id": "klubapp-7ec4c",
+    "storage_bucket": "klubapp-7ec4c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:766695549723:android:929ac7cb96f782c1",
+        "android_client_info": {
+          "package_name": "com.vozoljubitelji.klubapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "766695549723-nmfbk6ca1l724pak50gmu3l8j1atamu0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.vozoljubitelji.klubapp",
+            "certificate_hash": "d8cf0e270c8a3b78db8a9abc294f009ce049fb05"
+          }
+        },
+        {
+          "client_id": "766695549723-49j5prk6fmqeegit70f4uatsr9r847o2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9ZBRb3Xsl3V5vJnq8MpuzaQDNaqTvGkM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "766695549723-49j5prk6fmqeegit70f4uatsr9r847o2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:766695549723:android:5f461c88092c7563",
+        "android_client_info": {
+          "package_name": "com.vozoljubitelji.klubapp.debugStaging"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "766695549723-4ac4patab994ojkvnf5q6untih02lko5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.vozoljubitelji.klubapp.debugStaging",
+            "certificate_hash": "d8cf0e270c8a3b78db8a9abc294f009ce049fb05"
+          }
+        },
+        {
+          "client_id": "766695549723-49j5prk6fmqeegit70f4uatsr9r847o2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9ZBRb3Xsl3V5vJnq8MpuzaQDNaqTvGkM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "766695549723-49j5prk6fmqeegit70f4uatsr9r847o2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:766695549723:android:813a245a55e58982",
+        "android_client_info": {
+          "package_name": "com.vozoljubitelji.notification.klubapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "766695549723-6mo9gc0p0rhhk6d5la51c3f26n0bd3pb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.vozoljubitelji.notification.klubapp",
+            "certificate_hash": "d8cf0e270c8a3b78db8a9abc294f009ce049fb05"
+          }
+        },
+        {
+          "client_id": "766695549723-49j5prk6fmqeegit70f4uatsr9r847o2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9ZBRb3Xsl3V5vJnq8MpuzaQDNaqTvGkM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "766695549723-49j5prk6fmqeegit70f4uatsr9r847o2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:766695549723:android:058a269cdd24fd38",
+        "android_client_info": {
+          "package_name": "com.vozoljubitelji.notification.klubapp.debugStaging"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "766695549723-clhqdbhbapla6uprbnmn181gv0a5rgu6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.vozoljubitelji.notification.klubapp.debugStaging",
+            "certificate_hash": "d8cf0e270c8a3b78db8a9abc294f009ce049fb05"
+          }
+        },
+        {
+          "client_id": "766695549723-49j5prk6fmqeegit70f4uatsr9r847o2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9ZBRb3Xsl3V5vJnq8MpuzaQDNaqTvGkM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "766695549723-49j5prk6fmqeegit70f4uatsr9r847o2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

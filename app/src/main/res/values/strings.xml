@@ -1,0 +1,83 @@
+<resources>
+    <string name="app_name">Klub</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment. Hello blank fragment. Hello blank fragment. Hello blank fragment. Hello blank fragment. Hello blank fragment. </string>
+
+    <string name="hello_single_fragment">Hello single fragment</string>
+
+
+    <string name="main_fragment_title">Naslovna</string>
+
+    <string name="gallery_fragment_title">Vesti</string>
+
+    <string name="portfolio_fragment_title">Portfolio</string>
+
+    <string name="aboutUs_fragment_title">O nama</string>
+
+    <!-- For Navigation drawer -->
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="openDrawer">open_drawer</string>
+    <string name="closeDrawer">close_drawer</string>
+
+    <!-- Navigation Drawer menu labels -->
+    <string name="nav_home">Naslovna</string>
+    <string name="nav_gallery">Vesti</string>
+    <string name="nav_portfolio">Portfolio</string>
+    <string name="nav_about_us">O Nama</string>
+
+    <!-- Toolbar titles when navigation menu item is selected -->
+    <string-array name="nav_item_activity_titles">
+        <item>Naslovna</item>
+        <item>Vesti</item>
+        <item>Portfolio</item>
+        <item>O nama</item>
+    </string-array>
+
+    <string name="activity_title_about_us">O nama</string>
+    <string name="activity_title_privacy_policy">Privacy Policy</string>
+    <string name="action_clear_all">Clear All</string>
+    <string name="action_logout">Izlogujte se</string>
+    <string name="action_mark_all_read">Mark All as Read</string>
+    <string name="privacy_policy">Pravila korišćenja</string>
+    <string name="title_activity_test_class">TestClass</string>
+
+    <string name="portofolio_text">Klub ljubitelja železnice Beograd bavi se očuvanjem železničkog nasledja Beograda i Srbije.
+        Blisko saradjujemo sa Železničkim muzejom i Muzejom nauke i tehnike na organizaciji tribina i izložbi vezanih za železnicu. Takodje bavimo se i železničkim modelarstvom i maketarstvom i imamo izezetnu saradnju sa klubovima iz Srbije i iz okolnih zemalja.
+        Sa našim maketama učestvovali smo na Noći muzeja u Beogradu kao i na više medjunarodnih izložbi u Bugarskoj, Madjarskoj, Nemačkoj.
+    </string>
+
+    <string name="aboutus_title">Beogradski klub ljubitelja železnice nastao je 1972. godine i sa manjim pauzama postoji do danas.</string>
+
+    <string name="aboutus_text">Prostorije kluba smeštene su u renoviranom poštanskom vagonu koji se nalazi na Glavnoj Železničkoj stanici u Beogradu. Vagon je dobijen od Pošte Slovenije uz angažovanje Josipa Webera, novinara lista "Pruga", autora više knjiga o železnici,i predsednika Klube ljubitelja železnice iz Pančeva. Nakon više meseci renoviranja i uz veliku pomoć i podršku Železnica Srbije, vozoljubitelja iz zemlje i inostranstva, novi klub je otvoren septembra 2012te godine.
+
+    Današnji klub ljubitelja železnice nastavlja tradiciju i ideju prvobitnog kluba - popularizacija železnice, čuvanje istorijskog nasledja kroz knjige i fotografije, železničko modelarstvo i maketarstvo. U prostorijama kluba nalazi se velika kolekcija knjiga i časopisa, brošura i pravilnika o železnici. Posedujemo i dve makete, više modela lokomotiva i vagona. Naša elektroničarska sekcija bavi se svim elektro radovima na modelima i maketama. Pored nje, u klubu postoji i sekcija koja se bavi modelima i maketama, kao i sekcija za fotografiju i za istoriju.
+    </string>
+
+    <string name="team">Naš tim čine entuzijasti i zaljubljenici u železnicu, železničko modelarstvo i maketarstvo.</string>
+
+    <string name="nav_gallery_modeli">Galerija - Modeli/makete</string>
+
+    <string name="nav_gallery_klub">Galerija - Klub</string>
+
+    <string name="nav_gallery_putovanja">Galerija - Putovanja</string>
+
+    <string name="nav_gallery_istorija">Galerija - Istorija</string>
+
+    <string name="nav_gallery_fotoakcije">Galerija - Foto-akcije</string>
+
+    <string name="nav_gallery_voznipark">Galerija - Vozni park</string>
+
+    <!-- For FCM https://inducesmile.com/android/android-firebase-cloud-messaging-push-notification-with-server-admin-in-php-and-mysql-database/ -->
+
+    <string name="notice_board">Subscribe To Our Health Tips </string>
+    <string name="our_goal">Stay health and enjoy life in fullness</string>
+    <string name="instruction">If you are hoping to stay health you are welcome to join us in our journey with million of people world wide on useful and life changing tips that will not
+    only make you to stay health but strong as you grow older. </string>
+    <string name="subscribe">Subscription status </string>
+    <string name="status">Welcome back. Your subscription is still valid</string>
+    <string name="registered">You can receive notification </string>
+    <string name="un_register">You cannot receive notification</string>
+
+</resources>
